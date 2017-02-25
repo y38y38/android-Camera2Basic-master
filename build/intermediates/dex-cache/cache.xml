@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_c48bbd64143f11588f7ab5e9c66d7a074ee798bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e95bd195a4052e7004210f302a1aee9b6cb421aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e4118bf2125d84b56ee2769f7c50c68e0439ae8">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f384c7ca234c9973c9edcedeb849e37b1949b50f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_a372b5e2cca00e09420f766aaebfffaaedfa864d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a7a7a4619941b70a51d04f54b645510735c13943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_07b74f4cea3efaa1f700061d6e5fa32c17955be3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_d5c6c52863657d0a744a9783a49741622ecc9179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_369719dc20d4f38ae3b6d3c6fbea344271141deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_e0f3f09f19830f79a14b3d059a7373b1ee845f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3879b9924316ae68d1300b06d1718ad19c5df238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_7f665acbda90e83163f5c80a073e3520087c9561\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_64128175047d0509b2e8b2253b4474754fcddcfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_73085fcfcf1309f7c0677833cac31f23e7daab41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_3623b8e795f2622e897eb285b100cbbc589ddc83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_4019ccb3dde54550edfd9a03fddfebc12414c776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_d3790f7b28c5c58a5618c19ebeb160bd9e380708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2376acf7acac31726342e9b971fcbb0d60a3e922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a704d66aef07ae5bf92296d777e4ba6e97f0ce29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6c1b01a8f747a8cfe160a20f3e863d1230751be4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11349d41c0b7108edb38a68a8ebf9b40c3a43e72">
+        <dex dex="C:\Users\T\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef0510f604cbbb420b9993af031dda9a10c9593e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 押下していない時 -->
+    <item android:state_pressed="false">
+        <shape android:shape="oval">
+            <solid android:color="#400000ff" />
+            <!-- 枠線 -->
+            <stroke android:width="4dp" android:color="#007F82"/>
+        </shape>
+    </item>
+    <!-- 押下していない時 -->
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#400000ff" />
+            <stroke android:width="4dp" android:color="#00bcd4"/>
+        </shape>
+    </item>
+
+</selector>
